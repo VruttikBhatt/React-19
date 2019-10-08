@@ -1,0 +1,15 @@
+:root{
+    --mainDark: hsl(300, 13%, 6%);
+    --mainGrey: hsl(294, 92%, 64%);
+    --mainLightGrey: #a7b9cc;
+    --mainWhite: #fff;
+    --mainBlue: #12276d;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
